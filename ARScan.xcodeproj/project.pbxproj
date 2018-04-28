@@ -14,18 +14,6 @@
 		CB54787B2093FBF100C40A2F /* ARScanTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CB54787A2093FBF100C40A2F /* ARScanTests.m */; };
 		CB5478862093FBF100C40A2F /* ARScanUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5478852093FBF100C40A2F /* ARScanUITests.m */; };
 		CB5478952093FC6C00C40A2F /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5478942093FC6C00C40A2F /* MainViewController.m */; };
-		CB5478AB2093FDF400C40A2F /* targets.json in Resources */ = {isa = PBXBuildFile; fileRef = CB54789A2093FDF400C40A2F /* targets.json */; };
-		CB5478AC2093FDF400C40A2F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB54789E2093FDF400C40A2F /* ViewController.m */; };
-		CB5478AD2093FDF400C40A2F /* VideoRenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = CB54789F2093FDF400C40A2F /* VideoRenderer.m */; };
-		CB5478AE2093FDF400C40A2F /* OpenGLView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5478A02093FDF400C40A2F /* OpenGLView.m */; };
-		CB5478AF2093FDF400C40A2F /* helloar.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5478A12093FDF400C40A2F /* helloar.m */; };
-		CB5478B02093FDF400C40A2F /* 5018.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CB5478A22093FDF400C40A2F /* 5018.mp3 */; };
-		CB5478B12093FDF400C40A2F /* ArAndSaoBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5478A32093FDF400C40A2F /* ArAndSaoBtn.m */; };
-		CB5478B22093FDF400C40A2F /* ARVideo.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5478A42093FDF400C40A2F /* ARVideo.m */; };
-		CB5478B32093FDF400C40A2F /* namecard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB5478A62093FDF400C40A2F /* namecard.jpg */; };
-		CB5478B42093FDF400C40A2F /* 取消.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5478A72093FDF400C40A2F /* 取消.png */; };
-		CB5478B52093FDF400C40A2F /* idback.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB5478A82093FDF400C40A2F /* idback.jpg */; };
-		CB5478B62093FDF400C40A2F /* 5012.wav in Resources */ = {isa = PBXBuildFile; fileRef = CB5478A92093FDF400C40A2F /* 5012.wav */; };
 		CB5478BD2093FF4300C40A2F /* easyar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5478BB2093FF2400C40A2F /* easyar.framework */; };
 		CB5478C12093FF6000C40A2F /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5478C02093FF6000C40A2F /* libc++.tbd */; };
 		CB5478C32093FF6800C40A2F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5478C22093FF6800C40A2F /* AVFoundation.framework */; };
@@ -37,6 +25,18 @@
 		CB5478CF2093FFA100C40A2F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5478CE2093FFA100C40A2F /* UIKit.framework */; };
 		CB5478D12093FFB200C40A2F /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5478D02093FFB200C40A2F /* Accelerate.framework */; };
 		CB5478D32093FFB900C40A2F /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5478D22093FFB900C40A2F /* CoreMotion.framework */; };
+		CB54791B209409B700C40A2F /* targets.json in Resources */ = {isa = PBXBuildFile; fileRef = CB54790A209409B700C40A2F /* targets.json */; };
+		CB54791C209409B700C40A2F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB54790E209409B700C40A2F /* ViewController.m */; };
+		CB54791D209409B700C40A2F /* VideoRenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = CB54790F209409B700C40A2F /* VideoRenderer.m */; };
+		CB54791E209409B700C40A2F /* OpenGLView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB547910209409B700C40A2F /* OpenGLView.m */; };
+		CB54791F209409B700C40A2F /* helloar.m in Sources */ = {isa = PBXBuildFile; fileRef = CB547911209409B700C40A2F /* helloar.m */; };
+		CB547920209409B700C40A2F /* 5018.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CB547912209409B700C40A2F /* 5018.mp3 */; };
+		CB547921209409B700C40A2F /* ArAndSaoBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = CB547913209409B700C40A2F /* ArAndSaoBtn.m */; };
+		CB547922209409B700C40A2F /* ARVideo.m in Sources */ = {isa = PBXBuildFile; fileRef = CB547914209409B700C40A2F /* ARVideo.m */; };
+		CB547923209409B700C40A2F /* namecard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB547916209409B700C40A2F /* namecard.jpg */; };
+		CB547924209409B700C40A2F /* 取消.png in Resources */ = {isa = PBXBuildFile; fileRef = CB547917209409B700C40A2F /* 取消.png */; };
+		CB547925209409B700C40A2F /* idback.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB547918209409B700C40A2F /* idback.jpg */; };
+		CB547926209409B700C40A2F /* 5012.wav in Resources */ = {isa = PBXBuildFile; fileRef = CB547919209409B700C40A2F /* 5012.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,24 +72,6 @@
 		CB5478872093FBF100C40A2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB5478932093FC6C00C40A2F /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		CB5478942093FC6C00C40A2F /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
-		CB5478972093FDF400C40A2F /* OpenGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenGLView.h; sourceTree = "<group>"; };
-		CB5478982093FDF400C40A2F /* helloar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = helloar.h; sourceTree = "<group>"; };
-		CB5478992093FDF400C40A2F /* VideoRenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoRenderer.h; sourceTree = "<group>"; };
-		CB54789A2093FDF400C40A2F /* targets.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = targets.json; sourceTree = "<group>"; };
-		CB54789B2093FDF400C40A2F /* ArAndSaoBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArAndSaoBtn.h; sourceTree = "<group>"; };
-		CB54789C2093FDF400C40A2F /* ARVideo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARVideo.h; sourceTree = "<group>"; };
-		CB54789E2093FDF400C40A2F /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		CB54789F2093FDF400C40A2F /* VideoRenderer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoRenderer.m; sourceTree = "<group>"; };
-		CB5478A02093FDF400C40A2F /* OpenGLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpenGLView.m; sourceTree = "<group>"; };
-		CB5478A12093FDF400C40A2F /* helloar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = helloar.m; sourceTree = "<group>"; };
-		CB5478A22093FDF400C40A2F /* 5018.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5018.mp3; sourceTree = "<group>"; };
-		CB5478A32093FDF400C40A2F /* ArAndSaoBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArAndSaoBtn.m; sourceTree = "<group>"; };
-		CB5478A42093FDF400C40A2F /* ARVideo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ARVideo.m; sourceTree = "<group>"; };
-		CB5478A62093FDF400C40A2F /* namecard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = namecard.jpg; sourceTree = "<group>"; };
-		CB5478A72093FDF400C40A2F /* 取消.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "取消.png"; sourceTree = "<group>"; };
-		CB5478A82093FDF400C40A2F /* idback.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = idback.jpg; sourceTree = "<group>"; };
-		CB5478A92093FDF400C40A2F /* 5012.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 5012.wav; sourceTree = "<group>"; };
-		CB5478AA2093FDF400C40A2F /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		CB5478B82093FE7E00C40A2F /* easyar.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = easyar.framework; sourceTree = "<group>"; };
 		CB5478BB2093FF2400C40A2F /* easyar.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = easyar.framework; sourceTree = "<group>"; };
 		CB5478BE2093FF5500C40A2F /* libc.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libc.tbd; path = usr/lib/libc.tbd; sourceTree = SDKROOT; };
@@ -103,6 +85,24 @@
 		CB5478CE2093FFA100C40A2F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		CB5478D02093FFB200C40A2F /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		CB5478D22093FFB900C40A2F /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		CB547907209409B600C40A2F /* OpenGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenGLView.h; sourceTree = "<group>"; };
+		CB547908209409B600C40A2F /* helloar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = helloar.h; sourceTree = "<group>"; };
+		CB547909209409B700C40A2F /* VideoRenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoRenderer.h; sourceTree = "<group>"; };
+		CB54790A209409B700C40A2F /* targets.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = targets.json; sourceTree = "<group>"; };
+		CB54790B209409B700C40A2F /* ArAndSaoBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArAndSaoBtn.h; sourceTree = "<group>"; };
+		CB54790C209409B700C40A2F /* ARVideo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARVideo.h; sourceTree = "<group>"; };
+		CB54790E209409B700C40A2F /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CB54790F209409B700C40A2F /* VideoRenderer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoRenderer.m; sourceTree = "<group>"; };
+		CB547910209409B700C40A2F /* OpenGLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpenGLView.m; sourceTree = "<group>"; };
+		CB547911209409B700C40A2F /* helloar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = helloar.m; sourceTree = "<group>"; };
+		CB547912209409B700C40A2F /* 5018.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5018.mp3; sourceTree = "<group>"; };
+		CB547913209409B700C40A2F /* ArAndSaoBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArAndSaoBtn.m; sourceTree = "<group>"; };
+		CB547914209409B700C40A2F /* ARVideo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ARVideo.m; sourceTree = "<group>"; };
+		CB547916209409B700C40A2F /* namecard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = namecard.jpg; sourceTree = "<group>"; };
+		CB547917209409B700C40A2F /* 取消.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "取消.png"; sourceTree = "<group>"; };
+		CB547918209409B700C40A2F /* idback.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = idback.jpg; sourceTree = "<group>"; };
+		CB547919209409B700C40A2F /* 5012.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 5012.wav; sourceTree = "<group>"; };
+		CB54791A209409B700C40A2F /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,8 +144,8 @@
 		CB5478552093FBEE00C40A2F = {
 			isa = PBXGroup;
 			children = (
+				CB547906209409B600C40A2F /* 扫一扫 */,
 				CB5478B82093FE7E00C40A2F /* easyar.framework */,
-				CB5478962093FDF400C40A2F /* 扫一扫 */,
 				CB5478602093FBEE00C40A2F /* ARScan */,
 				CB5478792093FBF100C40A2F /* ARScanTests */,
 				CB5478842093FBF100C40A2F /* ARScanUITests */,
@@ -197,47 +197,6 @@
 			path = ARScanUITests;
 			sourceTree = "<group>";
 		};
-		CB5478962093FDF400C40A2F /* 扫一扫 */ = {
-			isa = PBXGroup;
-			children = (
-				CB5478B72093FE3200C40A2F /* sightplus */,
-				CB5478972093FDF400C40A2F /* OpenGLView.h */,
-				CB5478A02093FDF400C40A2F /* OpenGLView.m */,
-				CB5478982093FDF400C40A2F /* helloar.h */,
-				CB5478A12093FDF400C40A2F /* helloar.m */,
-				CB5478992093FDF400C40A2F /* VideoRenderer.h */,
-				CB54789F2093FDF400C40A2F /* VideoRenderer.m */,
-				CB54789C2093FDF400C40A2F /* ARVideo.h */,
-				CB5478A42093FDF400C40A2F /* ARVideo.m */,
-				CB54789B2093FDF400C40A2F /* ArAndSaoBtn.h */,
-				CB5478A32093FDF400C40A2F /* ArAndSaoBtn.m */,
-				CB54789A2093FDF400C40A2F /* targets.json */,
-				CB5478A22093FDF400C40A2F /* 5018.mp3 */,
-				CB5478A52093FDF400C40A2F /* assets */,
-				CB5478A92093FDF400C40A2F /* 5012.wav */,
-				CB5478AA2093FDF400C40A2F /* ViewController.h */,
-				CB54789E2093FDF400C40A2F /* ViewController.m */,
-			);
-			path = "扫一扫";
-			sourceTree = "<group>";
-		};
-		CB5478A52093FDF400C40A2F /* assets */ = {
-			isa = PBXGroup;
-			children = (
-				CB5478A62093FDF400C40A2F /* namecard.jpg */,
-				CB5478A72093FDF400C40A2F /* 取消.png */,
-				CB5478A82093FDF400C40A2F /* idback.jpg */,
-			);
-			path = assets;
-			sourceTree = "<group>";
-		};
-		CB5478B72093FE3200C40A2F /* sightplus */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = sightplus;
-			sourceTree = "<group>";
-		};
 		CB5478BA2093FEF400C40A2F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -255,6 +214,47 @@
 				CB5478BB2093FF2400C40A2F /* easyar.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CB547906209409B600C40A2F /* 扫一扫 */ = {
+			isa = PBXGroup;
+			children = (
+				CB547907209409B600C40A2F /* OpenGLView.h */,
+				CB547908209409B600C40A2F /* helloar.h */,
+				CB547909209409B700C40A2F /* VideoRenderer.h */,
+				CB54790A209409B700C40A2F /* targets.json */,
+				CB54790B209409B700C40A2F /* ArAndSaoBtn.h */,
+				CB54790C209409B700C40A2F /* ARVideo.h */,
+				CB54790D209409B700C40A2F /* sightplus */,
+				CB54790E209409B700C40A2F /* ViewController.m */,
+				CB54790F209409B700C40A2F /* VideoRenderer.m */,
+				CB547910209409B700C40A2F /* OpenGLView.m */,
+				CB547911209409B700C40A2F /* helloar.m */,
+				CB547912209409B700C40A2F /* 5018.mp3 */,
+				CB547913209409B700C40A2F /* ArAndSaoBtn.m */,
+				CB547914209409B700C40A2F /* ARVideo.m */,
+				CB547915209409B700C40A2F /* assets */,
+				CB547919209409B700C40A2F /* 5012.wav */,
+				CB54791A209409B700C40A2F /* ViewController.h */,
+			);
+			path = "扫一扫";
+			sourceTree = "<group>";
+		};
+		CB54790D209409B700C40A2F /* sightplus */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = sightplus;
+			sourceTree = "<group>";
+		};
+		CB547915209409B700C40A2F /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				CB547916209409B700C40A2F /* namecard.jpg */,
+				CB547917209409B700C40A2F /* 取消.png */,
+				CB547918209409B700C40A2F /* idback.jpg */,
+			);
+			path = assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -360,14 +360,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB5478B32093FDF400C40A2F /* namecard.jpg in Resources */,
-				CB5478B02093FDF400C40A2F /* 5018.mp3 in Resources */,
-				CB5478B52093FDF400C40A2F /* idback.jpg in Resources */,
+				CB547923209409B700C40A2F /* namecard.jpg in Resources */,
+				CB547920209409B700C40A2F /* 5018.mp3 in Resources */,
+				CB547925209409B700C40A2F /* idback.jpg in Resources */,
 				CB54786E2093FBF000C40A2F /* LaunchScreen.storyboard in Resources */,
-				CB5478B62093FDF400C40A2F /* 5012.wav in Resources */,
-				CB5478AB2093FDF400C40A2F /* targets.json in Resources */,
+				CB547926209409B700C40A2F /* 5012.wav in Resources */,
+				CB54791B209409B700C40A2F /* targets.json in Resources */,
 				CB54786B2093FBF000C40A2F /* Assets.xcassets in Resources */,
-				CB5478B42093FDF400C40A2F /* 取消.png in Resources */,
+				CB547924209409B700C40A2F /* 取消.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -392,14 +392,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB5478B22093FDF400C40A2F /* ARVideo.m in Sources */,
-				CB5478AD2093FDF400C40A2F /* VideoRenderer.m in Sources */,
-				CB5478AE2093FDF400C40A2F /* OpenGLView.m in Sources */,
+				CB547922209409B700C40A2F /* ARVideo.m in Sources */,
+				CB54791D209409B700C40A2F /* VideoRenderer.m in Sources */,
+				CB54791E209409B700C40A2F /* OpenGLView.m in Sources */,
 				CB5478712093FBF000C40A2F /* main.m in Sources */,
 				CB5478952093FC6C00C40A2F /* MainViewController.m in Sources */,
-				CB5478AC2093FDF400C40A2F /* ViewController.m in Sources */,
-				CB5478B12093FDF400C40A2F /* ArAndSaoBtn.m in Sources */,
-				CB5478AF2093FDF400C40A2F /* helloar.m in Sources */,
+				CB54791C209409B700C40A2F /* ViewController.m in Sources */,
+				CB547921209409B700C40A2F /* ArAndSaoBtn.m in Sources */,
+				CB54791F209409B700C40A2F /* helloar.m in Sources */,
 				CB5478632093FBEE00C40A2F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
